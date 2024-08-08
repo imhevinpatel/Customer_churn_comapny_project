@@ -84,32 +84,6 @@ Finance data
 Products data
 Tools and Technologies
 
-ETL Pipeline: SSIS (SQL Server Integration Services)
-Database: SQL Server
-Data Preprocessing & Analysis: Python (Pandas, NumPy, Matplotlib, Plotly)
-Dashboard Creation: Tableau, PowerBI
-Machine Learning: Scikit-learn
-Setup Instructions
 
-Clone the Repository:
-bash
-
-git clone https://github.com/yourusername/ecommerce-analytics-solution.git
-Install Required Python Packages:
-bash
-
-pip install -r requirements.txt
-Run Environment Setup Script:
-bash
-
-./scripts/setup_environment.sh
-Generate Sample Data (Optional):
-bash
-
-python scripts/generate_sample_data.py
-Update ETL Scripts:
-Update the ETL scripts in the etl/ directory to connect to your specific data sources.
-Run the ETL Process:
-bash
 
 
